@@ -5,13 +5,11 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ---
 
 ### ✨ About Me
 
-Hi, I'm Hanif – a backend engineer passionate about **secure systems**, **scalable architecture**, and clean code. I love building reliable services using **Spring Boot**, **Redis**, **JWT Auth**, and **Spring Security**, often deploying them in **Dockerized environments**.
+Hi, I'm Hanif – a backend engineer passionate about **secure systems**, **scalable architecture**, and clean code. I love building reliable services using **Spring Boot**, **Redis**, **JWT Auth**, and **Spring Security**.
 
 ---
 
@@ -28,7 +26,7 @@ Hi, I'm Hanif – a backend engineer passionate about **secure systems**, **scal
 ## 📁 Featured Projects
 
 ### 🔐 `springboot-jwt-redis-auth`
-> Secure login app using JWT, Keycloak, and Redis blacklist strategy.
+> Secure login app using JWT, Spring Security, and Redis blacklist strategy.
 
 ```bash
-Tech Stack: Spring Boot • JWT • Redis • PostgreDB
+Tech Stack: Spring Boot • JWT • Redis • Spring Security • PostgreDB
