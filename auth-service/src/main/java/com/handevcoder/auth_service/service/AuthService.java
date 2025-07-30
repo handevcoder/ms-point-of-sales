@@ -18,6 +18,7 @@ public class AuthService {
     private JwtUtil jwtUtil;
     @Autowired
     private PasswordEncoder encoder;
+    @SuppressWarnings("unused")
     @Autowired
     private RedisService redisSevice;
 
