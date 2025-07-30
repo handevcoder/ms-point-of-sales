@@ -1,4 +1,6 @@
 # Compiled class file
+*.pem
+*.key
 *.class
 
 # Log file
